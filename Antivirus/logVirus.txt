@@ -1,0 +1,292 @@
+
+----------------------------------------------------
+Signature: 12345_Virus
+----------------------------------------------------
+
+	C:\Program Files\Common Files\Intel\WirelessCommon\libeay32.dll
+	C:\Program Files\Common Files\Intel\WirelessCommon\RegSrvc.exe
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\ApiClient.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\appvcleaner.exe
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVIntegration.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppvIsvStream32.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppvIsvStream64.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVIsvSubsystemController.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppvIsvSubsystems32.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppvIsvSubsystems64.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVScripting.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\C2R32.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\C2R64.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\C2RUI.ru-ru.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\ClientTelemetry.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\IntegratedOffice.exe
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\MavInject32.exe
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\mso20win32client.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\mso30win32client.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\mso40uiwin32client.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\msointl30.ru-ru.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\msvcp120.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\msvcp140.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\msvcr120.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RCom.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\StreamServer.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\ucrtbase.dll
+	C:\Program Files\Common Files\microsoft shared\ClickToRun\vccorlib140.dll
+	C:\Program Files\Common Files\microsoft shared\ink\Alphabet.xml
+	C:\Program Files\Common Files\microsoft shared\ink\Content.xml
+	C:\Program Files\Common Files\microsoft shared\ink\hwrenINsh.dat
+	C:\Program Files\Common Files\microsoft shared\ink\hwruksh.dat
+	C:\Program Files\Common Files\microsoft shared\ink\InkObj.dll
+	C:\Program Files\Common Files\microsoft shared\ink\mshwLatin.dll
+	C:\Program Files\Common Files\microsoft shared\ink\ShapeCollector.exe
+	C:\Program Files\Common Files\microsoft shared\ink\tabskb.dll
+	C:\Program Files\Common Files\microsoft shared\MSEnv\VSFileHandler_64.dll
+	C:\Program Files\Common Files\microsoft shared\OFFICE16\Office Setup Controller\pidgenx.dll
+	C:\Program Files\Common Files\microsoft shared\Source Engine\OSE.EXE
+	C:\Program Files\Common Files\microsoft shared\Team Foundation Server\14.0\Microsoft.WITDataStore32.dll
+	C:\Program Files\Common Files\microsoft shared\Team Foundation Server\14.0\Microsoft.WITDataStore64.dll
+	C:\Program Files\Common Files\microsoft shared\Team Foundation Server\14.0\x64\TFSOfficeAdd-in.dll
+	C:\Program Files\Common Files\microsoft shared\Team Foundation Server\14.0\x86\TFSOfficeAdd-in.dll
+	C:\Program Files\Common Files\microsoft shared\VC\msdia100.dll
+	C:\Program Files\Common Files\microsoft shared\VC\msdia90.dll
+	C:\Program Files\Common Files\microsoft shared\VGX\VGX.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\14.0\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\csm.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\msdbg2.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\pdm.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\pdmproxy100.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\VSDebugScriptAgent140.dll
+	C:\Program Files\Common Files\microsoft shared\VS7Debug\vsjitdebuggerps.dll
+	C:\Program Files\Common Files\microsoft shared\VSTO\10.0\VSTOInstaller.exe
+	C:\Program Files\Common Files\microsoft shared\VSTO\10.0\VSTOMessageProvider.dll
+	C:\Program Files\Common Files\microsoft shared\VSTO\vstoee.dll
+	C:\Program Files\Common Files\microsoft shared\WF\amd64\WDE.dll
+	C:\Program Files\Common Files\microsoft shared\WF\amd64\WorkflowDebugHost.exe
+	C:\Program Files\Common Files\microsoft shared\WF\WDE.dll
+	C:\Program Files\Common Files\microsoft shared\Windows Simulator\14.0\Microsoft.Windows.Simulator.UtilitiesElevated.dll
+	C:\Program Files\Common Files\microsoft shared\Windows Simulator\14.0\SensorsSimulatorDriver.dll
+	C:\Program Files\Common Files\System\DirectDB.dll
+	C:\Program Files\Common Files\System\msadc\msadco.dll
+	C:\Program Files\Common Files\System\msadc\msdaprst.dll
+	C:\Program Files\Common Files\System\wab32.dll
+	C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\bin\win32\vsocklib.dll
+	C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\bin\win64\vsocklib.dll
+	C:\Program Files\CONEXANT\cAudioFilterAgent\CAudioFilterAgent64.exe
+	C:\Program Files\CONEXANT\cAudioFilterAgent\Setup64.exe
+	C:\Program Files\CONEXANT\CNXT_AUDIO_HDA\UIU64a.exe
+	C:\Program Files\CONEXANT\CxAudMsg\setup64.exe
+	C:\Program Files\CONEXANT\MA4String\setup64.exe
+	C:\Program Files\CONEXANT\SAII\CxHDAudioAPI.dll
+	C:\Program Files\CONEXANT\SAII\SACmd32.exe
+	C:\Program Files\CONEXANT\SAII\SACpl.exe
+	C:\Program Files\CONEXANT\SAII\setup64.exe
+	C:\Program Files\CONEXANT\SSPConfig\setup64.exe
+	C:\Program Files\CyberLink\PhotoDirector5\Customizations\Generic\Setting\python27.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Customizations\Generic\Setting\_hashlib.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\EffectExtractor\EffectExtractor.exe
+	C:\Program Files\CyberLink\PhotoDirector5\EvoParser.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\AudioMixer\CLAuMixer.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\AudioMixer\CLVistaAudioMixer.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Boomerang\x64\Boomerang.exe
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Boomerang\x64\BoomerangLib.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Boomerang\x64\PyBoomerang27\_PyBoomerang.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_3DTitle.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_Picture.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_PlugIn_3.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_PlugIn_4.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_PlugIn_5.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_SubtitleManager.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_Template.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_Title2.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CES_TitleLite.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CLMediaDetect.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CRoiMotion.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\cudart.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\CudartWrapper.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\cv110_64.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\cxcore110_64.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\highgui110_64.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\libebml.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\libiomp5md.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\libmatroska.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\CES\ObjectDetector.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\FaceMe\DaVinci.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\FaceMe\FaceEmbedder.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\FaceMe\libmmd.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\FaceMe\msvcr90.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\CLImageRetouch.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\cv200.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\cxcore200.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\highgui200.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\libiomp5md.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\Picasso3.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\Picasso4.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\Picasso5.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\ImageRetouch\Plato.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\CLPhotoRawDecoder.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\deImg404.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\DPPDLL.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\DPPLibCom.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\EDSDK.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\EdsImage.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\libiomp5md.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\MLib.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\Nikon\NkImgSDK.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\Nikon\Zelkova7.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\pscDevUI.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\pscParse.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\rdDcd.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\rdParse.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\Photo\Ucs32P.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Kernel\UNO\UNO.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\D3DCompiler_43.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\d3dx9_43.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\pyloader.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\python27.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\sqlite3.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\tcl85.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\tk85.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\unicodedata.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_allocator.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_bsddb.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_font.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_hashlib.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_htmlview.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_image.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_Interpolator.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_presenter.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_render3d.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_ssl.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\Koan\_wingdi.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\libiomp5md.dll
+	C:\Program Files\CyberLink\PhotoDirector5\libmmd.dll
+	C:\Program Files\CyberLink\PhotoDirector5\msvcp71.dll
+	C:\Program Files\CyberLink\PhotoDirector5\msvcr71.dll
+	C:\Program Files\CyberLink\PhotoDirector5\PhotoDirector presets\LensProfile\Canon\Canon EF 70-300mm f4-5.6 IS USM (Canon).pdlcp
+	C:\Program Files\CyberLink\PhotoDirector5\PhotoDirector presets\LensProfile\Nikon\Nikon AF-S Zoom-Nikkor 24-70mm f2.8G ED (NIKON CORPORATION).pdlcp
+	C:\Program Files\CyberLink\PhotoDirector5\Presentation\UI\BigBang\Runtime\CLNotification.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Presentation\UI\BigBang\Runtime\CLUpdater.exe
+	C:\Program Files\CyberLink\PhotoDirector5\Presentation\UI\BigBang\Runtime\EvoParser.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Presentation\UI\BigBang\Runtime\gdiplus.dll
+	C:\Program Files\CyberLink\PhotoDirector5\Presentation\UI\BigBang\Runtime\MUITransfer\MUITransferX64.dll
+	C:\Program Files\CyberLink\PhotoDirector5\REGX.dll
+	C:\Program Files\CyberLink\PhotoDirector5\sqlite3.dll
+	C:\Program Files\CyberLink\PhotoDirector5\System\libiomp5md.dll
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyAudioBox.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyAudioMixer.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyCacheParser.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyCameraLensProfileMgr.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyCESTemplate.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyCLWebBrowser.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyColorManagement.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyCompositeModule.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyDBAccessMgr.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyEvoParser.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyFaceME.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyGDIDrawHelper.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyHTMLView.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyImageCodec.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyImageEditTool.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyImageRetouch.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyImageSelect.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyMasterAccess.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyNetKernel.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyPhDBufferUtility.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyPrinting.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyShellOp.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PySWCommunicator.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyUACAgent.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyUploader.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyVideoConvert.pyd
+	C:\Program Files\CyberLink\PhotoDirector5\System\_PyWinProc.pyd
+	C:\Program Files\CyberLink\PowerDirector12\BigBang\CLNotification.dll
+	C:\Program Files\CyberLink\PowerDirector12\BigBang\CLUpdater.exe
+	C:\Program Files\CyberLink\PowerDirector12\BigBang\GdiPlus.dll
+	C:\Program Files\CyberLink\PowerDirector12\BigBang\MUITransfer\MUITransferX64.dll
+	C:\Program Files\CyberLink\PowerDirector12\Boomerang\x64\Boomerang.exe
+	C:\Program Files\CyberLink\PowerDirector12\Boomerang\x64\BoomerangLib.dll
+	C:\Program Files\CyberLink\PowerDirector12\Boomerang\x86\Boomerang.exe
+	C:\Program Files\CyberLink\PowerDirector12\Boomerang\x86\BoomerangLib.dll
+	C:\Program Files\CyberLink\PowerDirector12\BurningMgr\CBS.dll
+	C:\Program Files\CyberLink\PowerDirector12\BurningMgr\HwCtrlMgr.dll
+	C:\Program Files\CyberLink\PowerDirector12\CAPLib.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_3DLoaderFBX.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_3DRendererD3D.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_3DScene.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_3DTitle.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_ParticleEngine.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_ParticlePlugin.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_ParticlePluginMSS.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_Picture.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_Stroke.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_SubtitleManager.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_Template.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_Title2.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CES_TitleLite.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CL3DPhoto.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CLAudSD.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CLZoetrope.ax
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\ComputeShaderWrapper.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\CRoiMotion.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\cv100_64.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\cv110_64.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\cxcore100_64.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\cxcore110_64.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\DaVinci.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\GPUParticleEngine.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\highgui100_64.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\highgui110_64.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\libiomp5md.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\ObjectDetector.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\Rhythm.dll
+	C:\Program Files\CyberLink\PowerDirector12\CESdlls\Slide.dll
+	C:\Program Files\CyberLink\PowerDirector12\CLAuMixer.dll
+	C:\Program Files\CyberLink\PowerDirector12\CLVistaAudioMixer.dll
+	C:\Program Files\CyberLink\PowerDirector12\Common.dll
+	C:\Program Files\CyberLink\PowerDirector12\d3dx9_30.dll
+	C:\Program Files\CyberLink\PowerDirector12\d3dx9_34.dll
+	C:\Program Files\CyberLink\PowerDirector12\D3DX9_40.dll
+	C:\Program Files\CyberLink\PowerDirector12\D3DX9_42.dll
+	C:\Program Files\CyberLink\PowerDirector12\DXRender.dll
+	C:\Program Files\CyberLink\PowerDirector12\DxRender3DV.dll
+	C:\Program Files\CyberLink\PowerDirector12\DxRender3DX.dll
+	C:\Program Files\CyberLink\PowerDirector12\dxRenderV.dll
+	C:\Program Files\CyberLink\PowerDirector12\DxRenderX.dll
+	C:\Program Files\CyberLink\PowerDirector12\fwnet.dll
+	C:\Program Files\CyberLink\PowerDirector12\HanumanCache.dll
+	C:\Program Files\CyberLink\PowerDirector12\libmmd.dll
+	C:\Program Files\CyberLink\PowerDirector12\Library.dll
+	C:\Program Files\CyberLink\PowerDirector12\MUITransfer\MUIStartMenu.exe
+	C:\Program Files\CyberLink\PowerDirector12\MUITransfer\MUIStartMenuX64.exe
+	C:\Program Files\CyberLink\PowerDirector12\MUITransfer\MUITransfer.dll
+	C:\Program Files\CyberLink\PowerDirector12\MUITransfer\MUITransferX64.dll
+	C:\Program Files\CyberLink\PowerDirector12\MUITransfer\MUIXMLManager.dll
+	C:\Program Files\CyberLink\PowerDirector12\MUITransfer\MUIXMLManagerX64.dll
+	C:\Program Files\CyberLink\PowerDirector12\PDR32Agent\CLVistaAudioMixer.dll
+	C:\Program Files\CyberLink\PowerDirector12\PDR32Agent\PDR32Agent.exe
+	C:\Program Files\CyberLink\PowerDirector12\runtime\authoring\AuroraU.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\authoring\CLEspresso.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\authoring\CLMenuEditor3U.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\authoring\DiscMgrU.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\authoring\TemplateMgr3U.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\AuthorPage\MovieProduction.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\CES\CLAuNR.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\CES\clauts.ax
+	C:\Program Files\CyberLink\PowerDirector12\runtime\CES\CLVidFx.ax
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLAud.ax
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLCVD\264dxva.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLCVD\VDShell.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLCVD\Xdec.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLDCRawWrapper.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLEdtDemuxer.ax
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\CLFLVSplitter.ax
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\dcv.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\dec51.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\decoderPack\dec71.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\DxGplugin\d3dx9_30.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\encoderPack\CLDTSProducer.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\encoderPack\CLIntelMSDKV.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\encoderPack\CLMP1Vc.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\encoderPack\CLMP1Vs2.dll
+	C:\Program Files\CyberLink\PowerDirector12\runtime\encoderPack\CLNVKEPL
